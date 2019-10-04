@@ -34,8 +34,6 @@ public class JocdeDaus {
 
         if (dado1.getValor() == dado2.getValor() && dado2.getValor() == dado3.getValor()){
             numV++;
-
-            System.out.println("hola:" + numV);
         }
 
     }
